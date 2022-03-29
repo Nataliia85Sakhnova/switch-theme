@@ -1,0 +1,19 @@
+.black {
+    background-color: black;
+    text-decoration: antiquewhite;
+}
+
+.pink {
+    background-color: rgb(230, 137, 137);
+    text-decoration: rgb(2, 1, 0);
+}
+
+.white {
+    background-color: rgb(248, 245, 245);
+    text-decoration: rgb(59, 45, 27);
+}
+
+.blue {
+    background-color: rgb(134, 133, 187);
+    text-decoration: rgb(20, 17, 12);
+}
