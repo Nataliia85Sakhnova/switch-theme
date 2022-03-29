@@ -1,17 +1,21 @@
 switch (color) {
   case 'black':
-      return (black)
+      console.log(color.value)
+      document.getElementById("black-theme").classList.toggle('black');
       break;
 
   case 'pink':
-    return (pink)
+    console.log(color.value)
+    document.getElementById("pink-theme").classList.toggle('pink');
     break;
 
   case 'white':
-    return (white)
+    console.log(color.value)
+    document.getElementById("white-theme").classList.toggle('white');
     break;
 
   case "blue":
-    return (blue)
+    document.getElementById("white-theme").classList.toggle('white');
+    console.log(color.value)
     break;
 }
